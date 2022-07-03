@@ -1,1 +1,0 @@
-alert("inusoftBG的網站! 記得要訂閱inusoftBG喔!");
